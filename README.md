@@ -1,2 +1,2 @@
 # APFA
-Ameliorated pathfinder algorithm
+Ameliorated PFA
